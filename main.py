@@ -37,20 +37,20 @@ import yt_dlp
 #   CONFIG — Fill in your details here
 # ═══════════════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8258016908:AAFxKdNXbDGW1HLw-Tiw_QN7OMKifIPH2Vg"
 # Get from @BotFather on Telegram
 
-ADMIN_IDS = [PASTE_YOUR_USER_ID_HERE]
+ADMIN_IDS = [7578834050]
 # Get your ID from @userinfobot on Telegram
 # Multiple admins: [123456789, 987654321]
 
-FORCE_JOIN_CHANNELS = ["@PASTE_YOUR_CHANNEL_HERE"]
+FORCE_JOIN_CHANNELS = ["@suvarq"]
 # Channels users must join before using bot
 # Multiple: ["@channel1", "@channel2"]
 # Disable: []
 
-SPOTIFY_CLIENT_ID     = "PASTE_SPOTIFY_CLIENT_ID_HERE"
-SPOTIFY_CLIENT_SECRET = "PASTE_SPOTIFY_CLIENT_SECRET_HERE"
+SPOTIFY_CLIENT_ID     = "8c543f45cdf349e98158e3c41db64d34"
+SPOTIFY_CLIENT_SECRET = "05af202b792e4df8afa8c497b64468f3"
 # Get free from developer.spotify.com/dashboard
 # Leave as "" if you don't want Spotify support
 
